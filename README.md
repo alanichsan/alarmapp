@@ -3,6 +3,25 @@
 ```bash
 flutter run
 ```
+## Feature
+
+```
+- world clock
+- list Alarm
+- Stopwatch and Countdown
+```
+
+## Package Usage
+
+```
+- cupertino_icons: ^1.0.2
+- google_fonts: ^2.1.0
+- flutter_bloc: ^7.3.0
+- analog_clock: ^0.1.0
+- simple_shadow: ^0.3.0
+- intl: ^0.17.0
+- roundcheckbox: ^2.0.4+1
+```
 ## Getting Started
 
 ![alt text](https://res.cloudinary.com/alanichsan/image/upload/v1641495441/Screenshot_20220107-015057_mhxrfm.jpg)

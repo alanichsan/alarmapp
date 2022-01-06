@@ -40,7 +40,6 @@ dependencies:
   simple_shadow: ^0.3.0
   intl: ^0.17.0
   roundcheckbox: ^2.0.4+1
-  circular_countdown_timer: ^0.2.0
 
 dev_dependencies:
   flutter_test:
